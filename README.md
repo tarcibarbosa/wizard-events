@@ -1,9 +1,7 @@
 # WizardEvent
 
-**
-  A simple system to register a new guest at wizard events.
-  The system has a purpose to studying and trainee elixir language.
-**
+**A simple system to register a new guest at wizard events.
+  The system has a purpose to studying and trainee elixir language.**
 
 ## Installation
 
