@@ -1,6 +1,6 @@
 # WizardEvent
 
-**TODO: Add description**
+**A simple system to register a new guest at wizard events**
 
 ## Installation
 
